@@ -1,0 +1,26 @@
+1
+"."
+1
+  DIR "javaMailSender" "..\javaMailSender" HIDDEN
+  1
+    DIR "dist" "..\javaMailSender\dist" HIDDEN
+    2
+      DIR "lib" "..\javaMailSender\dist\lib" HIDDEN
+      16
+        FILE "commons-logging-1.2.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\commons-logging-1.2__3.jar" HIDDEN
+        FILE "junit-4.12.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\junit-4.12__4.jar" HIDDEN
+        FILE "log4j-1.2.17.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\log4j-1.2.17__5.jar" HIDDEN
+        FILE "commons-codec-1.10.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\commons-codec-1.10__1.jar" HIDDEN
+        FILE "AbsoluteLayout.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\AbsoluteLayout__14.jar" HIDDEN
+        FILE "commons-collections4-4.1.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\commons-collections4-4.1__2.jar" HIDDEN
+        FILE "curvesapi-1.04.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\curvesapi-1.04__6.jar" HIDDEN
+        FILE "commons-io-2.6-javadoc.jar" "../javaMailSender/dist/lib/commons-io-2.6-javadoc.jar" HIDDEN
+        FILE "xmlbeans-2.6.0.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\xmlbeans-2.6.0__7.jar" HIDDEN
+        FILE "commons-io-2.6-sources.jar" "../javaMailSender/dist/lib/commons-io-2.6-sources.jar" HIDDEN
+        FILE "poi-scratchpad-3.17.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\poi-scratchpad-3.17__11.jar" HIDDEN
+        FILE "commons-io-2.6.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\commons-io-2.6__13.jar" HIDDEN
+        FILE "poi-ooxml-3.17.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\poi-ooxml-3.17__9.jar" HIDDEN
+        FILE "poi-ooxml-schemas-3.17.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\poi-ooxml-schemas-3.17__10.jar" HIDDEN
+        FILE "mail.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\mail__12.jar" HIDDEN
+        FILE "poi-3.17.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\poi-3.17__8.jar" HIDDEN
+      FILE "javaMailSender.jar" "C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\tmpres\javaMailSender__0.jar" HIDDEN

@@ -1,0 +1,129 @@
+%%Excelsior JET v12.0 project file
+
+-jpiiproject=C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender.jpn
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global-
+-gui+
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-jetcpenablemanualsettings+
+-multiapp+
+-pgo+
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.stack.trace
+-jprofile=./Email Sender.jprof
+-main=mailer/EmailSenderDriver
+-outputdir=..
+-outputname=Email Sender
+-saprofmode=JETCPONLY
+-saproftimeout=20
+-stacklimit=900000
+-versioninfocompanyname=Wixmat
+-versioninfofiledescription=Email Sender
+-versioninfolegalcopyright=Copyright \x00a9 2017 Wixmat
+-versioninfoproductname=Email Sender
+-versioninfoproductversion=1.0.0.0
+
+
+
+
+!classpathentry ../javaMailSender/dist/javaMailSender.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/commons-codec-1.10.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/commons-collections4-4.1.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/commons-logging-1.2.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/junit-4.12.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/log4j-1.2.17.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/curvesapi-1.04.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/xmlbeans-2.6.0.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/poi-3.17.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/poi-ooxml-3.17.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/poi-ooxml-schemas-3.17.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/poi-scratchpad-3.17.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/mail.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/commons-io-2.6-javadoc.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/commons-io-2.6-sources.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/commons-io-2.6.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ../javaMailSender/dist/lib/AbsoluteLayout.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+
+!module ../../../Downloads/Oxygen-Icons.org-Oxygen-Apps-preferences-desktop-user-password (1).ico
+

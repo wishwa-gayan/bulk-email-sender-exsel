@@ -1,0 +1,44 @@
+
+-arch=amd64
+-PIC
+-jetcomponent=12.00
+-jetedition=Evaluation
+-vcode=8121
+-sys=W
+-nosmart
+-zimer=0
+-stack=900000
+-LargeAddressAware
+-config=VMProperty:-Djet.gc.heaplimit:0 -Djet.stack.trace
+-config=ClassPath:*{exe.dir}\javaMailSender\dist\javaMailSender.jar;*{exe.dir}\javaMailSender\dist\lib\commons-codec-1.10.jar;*{exe.dir}\javaMailSender\dist\lib\commons-collections4-4.1.jar;*{exe.dir}\javaMailSender\dist\lib\commons-logging-1.2.jar;*{exe.dir}\javaMailSender\dist\lib\junit-4.12.jar;*{exe.dir}\javaMailSender\dist\lib\log4j-1.2.17.jar;*{exe.dir}\javaMailSender\dist\lib\curvesapi-1.04.jar;*{exe.dir}\javaMailSender\dist\lib\xmlbeans-2.6.0.jar;*{exe.dir}\javaMailSender\dist\lib\poi-3.17.jar;*{exe.dir}\javaMailSender\dist\lib\poi-ooxml-3.17.jar;*{exe.dir}\javaMailSender\dist\lib\poi-ooxml-schemas-3.17.jar;*{exe.dir}\javaMailSender\dist\lib\poi-scratchpad-3.17.jar;*{exe.dir}\javaMailSender\dist\lib\mail.jar;*{exe.dir}\javaMailSender\dist\lib\commons-io-2.6-javadoc.jar;*{exe.dir}\javaMailSender\dist\lib\commons-io-2.6-sources.jar;*{exe.dir}\javaMailSender\dist\lib\commons-io-2.6.jar;*{exe.dir}\javaMailSender\dist\lib\AbsoluteLayout.jar
+-config=JREHome:C:\jet12.0-eval-amd64\bin\..\profile1.8.0_121\jre
+-config=JETProfile:8121
+-config=JETProfileName:1.8.0_121
+-config=RuntimeKind:DESKTOP
+-EmbeddedFileSys=C:/Users/wishwa/Documents/NetBeansProjects/EmailSEND/Email Sender_jetpdb/Email Sender.efs
+-config=MainClass:mailer/EmailSenderDriver
+-config=VersionInfo:jet-1200-release (eval, en)
+-config=CompatibilityString:Java SE version: 1.8.0_121; JET update level: 0; CPU architecture: amd64
+-name=..\Email Sender.exe
+C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\version.res
+
+-entry=ExeEntryPoint
+
+
+-LinkFileAsRData=LINK_SplashPicture:C:\jet12.0-eval-amd64\lib\x86\dummysplash.lib
+
+-config=MultiMain:1
+
+C:\jet12.0-eval-amd64\lib\x86\startup-exe-splash.zip
+
+-GenExceptionInfo=JR_SystemExceptionHandler
+-config=PackagingOptions:component_microversions=BC-0
+C:\Users\wishwa\Documents\NetBeansProjects\EmailSEND\Email Sender_jetpdb\obj.zip
+-Config=RTComponent:XKRN12008121.dll
+C:\jet12.0-eval-amd64\lib\x86\startup-rtlink.zip
+C:\jet12.0-eval-amd64\lib\x86\import32.lib
+..\..\..\Downloads\Oxygen-Icons.org-Oxygen-Apps-preferences-desktop-user-password (1).ico
+C:\jet12.0-eval-amd64\lib\x86\app.res
+-StrictLinkToDLL
+
+
